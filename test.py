@@ -1,1 +1,5 @@
 # ypthon file
+
+# GITHUB_PAT - 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
+# AWS_ACCESS_KEY - AKIAYZZGSY75A5HVL2EJ
+# AWS_SECRET_KEY - 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
