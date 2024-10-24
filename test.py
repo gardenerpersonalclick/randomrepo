@@ -8,7 +8,8 @@
 # OPENAI_KEY - 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
 # mysql -h database-12.cpk0awu2kyvt.us-east-1.rds.amazonaws.com -P 3306 -u admin -pmypassword
 
-# Sales force authentication
+# Salesforce authentication
+# Salesforce URL - https://data-saas-344.my.salesforce.com
 from simple_salesforce import Salesforce
 
 SALESFORCE_USERNAME = "newpermtest1github@gardenerpersonal.click"
