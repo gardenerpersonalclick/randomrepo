@@ -1,3 +1,4 @@
+# Login to https://xdijbpq-hz01456.snowflakecomputing.com/
 # snowflake connection
 import snowflake.connector
 conn = snowflake.connector.connect(
