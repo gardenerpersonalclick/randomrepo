@@ -1,4 +1,5 @@
 # Login to https://xdijbpq-hz01456.snowflakecomputing.com/
+# https://ku81904.ap-south-1.aws.snowflakecomputing.com/
 # snowflake connection
 import snowflake.connector
 conn = snowflake.connector.connect(
