@@ -11,6 +11,9 @@
 # CIRCLE_TOKEN - CCIPAT_APEC7rpSxf6mkexvNJ4ucb_8855513ad6fa102c3e1ebbd3fb4941409587e5b2
 # CIRCLECI_TOKEN - CCIPAT_APEC7rpSxf6mkexvNJ4ucb_8855513ad6fa102c3e1ebbd3fb4941409587e5b2
 
+# https://trial-4038288-admin.okta.com/
+OKTA_API_TOKEN - 00qRipPLVyxbVpxkmoRlp5OUzp35N7nhd_eYFmfEpA
+
 # Salesforce authentication
 # Salesforce URL - https://data-saas-344.my.salesforce.com
 from simple_salesforce import Salesforce
