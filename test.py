@@ -1,2 +1,3 @@
 # ypthon file
 
+AWS_ACCESS_KEY_ID=AKIAYZZGSY75JD3E3GSZ AWS_SECRET_ACCESS_KEY=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 aws sts get-caller-identity
