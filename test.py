@@ -94,3 +94,8 @@ conn = snowflake.connector.connect(
 cur = conn.cursor()
 cur.execute("SELECT current_version()")
 print(cur.fetchone())
+
+AWS_CODECOMMIT_REPO=https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/testrepo
+AWS_CODECOMMIT_USERNAME=codecommit-user-1-at-558267956267
+AWS_CODECOMMIT_PASSWORD=v5lBoOrNWH6Z/4Llnz5RJUDYWxwA7C9ijyxROlJjoRtSDW6USwk6FfBqb6o=
+
